@@ -1,0 +1,17 @@
+{
+  "name": "rabbitmq-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@buzzsports/sportsbuzz11-rabbitmq-provider": "^1.0.1",
+    "@buzzsports/sportsbuzz11-ready-event": "^1.0.0",
+    "amqplib": "^0.10.3"
+  }
+}
